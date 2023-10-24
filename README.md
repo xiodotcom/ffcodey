@@ -1,4 +1,4 @@
-FaceFusion
+Private FaceFusion
 ==========
 
 > Next generation face swapper and enhancer.
